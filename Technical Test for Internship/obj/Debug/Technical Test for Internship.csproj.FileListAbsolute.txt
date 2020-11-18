@@ -1,0 +1,13 @@
+C:\Users\Black Deviil\source\repos\Technical Test for Internship\Technical Test for Internship\bin\Debug\Technical Test for Internship.exe.config
+C:\Users\Black Deviil\source\repos\Technical Test for Internship\Technical Test for Internship\bin\Debug\Technical Test for Internship.exe
+C:\Users\Black Deviil\source\repos\Technical Test for Internship\Technical Test for Internship\bin\Debug\Technical Test for Internship.pdb
+C:\Users\Black Deviil\source\repos\Technical Test for Internship\Technical Test for Internship\bin\Debug\MathNet.Numerics.dll
+C:\Users\Black Deviil\source\repos\Technical Test for Internship\Technical Test for Internship\bin\Debug\MathNet.Numerics.xml
+C:\Users\Black Deviil\source\repos\Technical Test for Internship\Technical Test for Internship\obj\Debug\Technical Test for Internship.csprojAssemblyReference.cache
+C:\Users\Black Deviil\source\repos\Technical Test for Internship\Technical Test for Internship\obj\Debug\Technical_Test_for_Internship.Form1.resources
+C:\Users\Black Deviil\source\repos\Technical Test for Internship\Technical Test for Internship\obj\Debug\Technical_Test_for_Internship.Properties.Resources.resources
+C:\Users\Black Deviil\source\repos\Technical Test for Internship\Technical Test for Internship\obj\Debug\Technical Test for Internship.csproj.GenerateResource.cache
+C:\Users\Black Deviil\source\repos\Technical Test for Internship\Technical Test for Internship\obj\Debug\Technical Test for Internship.csproj.CoreCompileInputs.cache
+C:\Users\Black Deviil\source\repos\Technical Test for Internship\Technical Test for Internship\obj\Debug\Technical Test for Internship.csproj.CopyComplete
+C:\Users\Black Deviil\source\repos\Technical Test for Internship\Technical Test for Internship\obj\Debug\Technical Test for Internship.exe
+C:\Users\Black Deviil\source\repos\Technical Test for Internship\Technical Test for Internship\obj\Debug\Technical Test for Internship.pdb
